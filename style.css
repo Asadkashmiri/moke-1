@@ -1,0 +1,37 @@
+#main{
+    border: 3px;
+    border-color: black;
+    border-style: solid;
+    /* width: 100%; */
+    /* height: 100%; */
+}
+.one{
+    border: 2%;
+    background-color: rgb(226, 142, 142);
+    border-style: solid;
+    width: 15%;
+    height: 100px;
+    margin: 2% 0% 2% 2%;
+   
+}
+.two{
+    border: 2%;
+    background-color: rgb(121, 196, 233);
+    border-style: solid;
+    width: 75%;
+    height: 100px;
+    margin: 2% 2% 2% 2%;
+   
+}
+.one , .two {
+    display: inline-block;
+}
+.three{
+    margin: 0% 2% 2% 2%;
+    border: 2%;
+    border-color: black;
+    border-style: solid;
+    height: 5em;
+    width: 93%;
+    background-color: rgb(245, 245, 139);
+}

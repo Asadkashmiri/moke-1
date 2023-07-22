@@ -11,7 +11,7 @@
     border-style: solid;
     width: 15%;
     height: 100px;
-    margin: 2% 0% 2% 2%;
+    margin: 2% 0% 1% 2%;
    
 }
 .two{
@@ -20,14 +20,14 @@
     border-style: solid;
     width: 75%;
     height: 100px;
-    margin: 2% 2% 2% 2%;
+    margin: 2% 1% 1% 2%;
    
 }
 .one , .two {
     display: inline-block;
 }
 .three{
-    margin: 0% 2% 2% 2%;
+    margin: 2% 1% 2% 2%;
     border: 2%;
     border-color: black;
     border-style: solid;
